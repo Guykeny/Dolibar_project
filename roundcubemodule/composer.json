@@ -1,0 +1,6 @@
+{
+    "require": {
+        "zbateson/mail-mime-parser": "^3.0",
+        "psr/log": "^1.1"
+    }
+}

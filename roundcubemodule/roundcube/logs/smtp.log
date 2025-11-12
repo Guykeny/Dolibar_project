@@ -1,0 +1,2994 @@
+[29-Aug-2025 08:01:14 +0000]: <gvlmoqm9> Connecting to tls://sucralose.o2switch.net:587...
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Fri, 29 Aug 2025 10:01:15 +0200 
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 220 and/or bulk e-mail.
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Send: EHLO localhost
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-SIZE 262144000
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-8BITMIME
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-PIPELINING
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-PIPECONNECT
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-AUTH PLAIN LOGIN
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-STARTTLS
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250 HELP
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Send: STARTTLS
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 220 TLS go ahead
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Send: EHLO localhost
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-SIZE 262144000
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-8BITMIME
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-PIPELINING
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-PIPECONNECT
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250-AUTH PLAIN LOGIN
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 250 HELP
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Send: AUTH PLAIN
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Recv: 334 
+[29-Aug-2025 08:01:15 +0000]: <gvlmoqm9> Send: ****** [64]
+[29-Aug-2025 08:01:17 +0000]: <gvlmoqm9> Recv: 535 Incorrect authentication data
+[29-Aug-2025 08:01:17 +0000]: <gvlmoqm9> Send: QUIT
+[29-Aug-2025 08:01:17 +0000]: <gvlmoqm9> Recv: 221 sucralose.o2switch.net closing connection
+[29-Aug-2025 08:02:14 +0000]: <gvlmoqm9> Connecting to tls://sucralose.o2switch.net:587...
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Fri, 29 Aug 2025 10:02:15 +0200 
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 220 and/or bulk e-mail.
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Send: EHLO localhost
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-SIZE 262144000
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-8BITMIME
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-PIPELINING
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-PIPECONNECT
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-AUTH PLAIN LOGIN
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-STARTTLS
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250 HELP
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Send: STARTTLS
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 220 TLS go ahead
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Send: EHLO localhost
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-SIZE 262144000
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-8BITMIME
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-PIPELINING
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-PIPECONNECT
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250-AUTH PLAIN LOGIN
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Recv: 250 HELP
+[29-Aug-2025 08:02:15 +0000]: <gvlmoqm9> Send: AUTH PLAIN
+[29-Aug-2025 08:02:16 +0000]: <gvlmoqm9> Recv: 334 
+[29-Aug-2025 08:02:16 +0000]: <gvlmoqm9> Send: ****** [64]
+[29-Aug-2025 08:02:18 +0000]: <gvlmoqm9> Recv: 535 Incorrect authentication data
+[29-Aug-2025 08:02:18 +0000]: <gvlmoqm9> Send: QUIT
+[29-Aug-2025 08:02:18 +0000]: <gvlmoqm9> Recv: 221 sucralose.o2switch.net closing connection
+[29-Aug-2025 08:06:10 +0000]: <ui4r8d2m> Connecting to tls://sucralose.o2switch.net:587...
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Fri, 29 Aug 2025 10:06:11 +0200 
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 220 and/or bulk e-mail.
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Send: EHLO localhost
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-SIZE 262144000
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-8BITMIME
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-PIPELINING
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-PIPECONNECT
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-AUTH PLAIN LOGIN
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-STARTTLS
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250 HELP
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Send: STARTTLS
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 220 TLS go ahead
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Send: EHLO localhost
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-SIZE 262144000
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-8BITMIME
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-PIPELINING
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-PIPECONNECT
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250-AUTH PLAIN LOGIN
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 250 HELP
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Send: AUTH PLAIN
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Recv: 334 
+[29-Aug-2025 08:06:11 +0000]: <ui4r8d2m> Send: ****** [56]
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Recv: 235 Authentication succeeded
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Send: MAIL FROM:<opoinsot@accens-avocats.com>
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Recv: 250 OK
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Send: RCPT TO:<guydany8@gmail.com>
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Recv: 250 Accepted
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Send: DATA
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Recv: 354 Enter message, ending with "." on a line by itself
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Send: MIME-Version: 1.0
+Date: Fri, 29 Aug 2025 08:06:10 +0000
+From: opoinsot@accens-avocats.com
+To: guydany8@gmail.com
+Subject: test dolibarr
+Message-ID: <1cb62192a89c350cf88fe28cdc79151e@accens-avocats.com>
+X-Sender: opoinsot@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+bonjour
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Send: 
+.
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Recv: 250 OK id=1uru7g-00000005LUk-1p6M
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Send: QUIT
+[29-Aug-2025 08:06:12 +0000]: <ui4r8d2m> Recv: 221 sucralose.o2switch.net closing connection
+[01-Sep-2025 10:34:16 +0000]: <btlcmp54> Connecting to tls://sucralose.o2switch.net:587...
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Mon, 01 Sep 2025 12:34:16 +0200 
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 220 and/or bulk e-mail.
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Send: EHLO localhost
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 250-SIZE 262144000
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 250-8BITMIME
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 250-PIPELINING
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 250-PIPECONNECT
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 250-AUTH PLAIN LOGIN
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 250-STARTTLS
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 250 HELP
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Send: STARTTLS
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Recv: 220 TLS go ahead
+[01-Sep-2025 10:34:17 +0000]: <btlcmp54> Send: EHLO localhost
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250-SIZE 262144000
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250-8BITMIME
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250-PIPELINING
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250-PIPECONNECT
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250-AUTH PLAIN LOGIN
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250 HELP
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Send: AUTH PLAIN
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 334 
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Send: ****** [56]
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 235 Authentication succeeded
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Send: MAIL FROM:<opoinsot@accens-avocats.com>
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250 OK
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Send: RCPT TO:<noreply@sncf-connect.com>
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250 Accepted
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Send: DATA
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 354 Enter message, ending with "." on a line by itself
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Send: MIME-Version: 1.0
+Date: Mon, 01 Sep 2025 10:34:16 +0000
+From: opoinsot@accens-avocats.com
+To: noreply@sncf-connect.com
+Subject: test
+Message-ID: <19a5ca335ba9d9540b6bbc0a6ef02347@accens-avocats.com>
+X-Sender: opoinsot@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+un message
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Send: 
+.
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 250 OK id=1ut1re-00000002cGY-3Wjw
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Send: QUIT
+[01-Sep-2025 10:34:18 +0000]: <btlcmp54> Recv: 221 sucralose.o2switch.net closing connection
+[01-Sep-2025 15:32:17 +0000]: <9dtsd9r6> Connecting to tls://sucralose.o2switch.net:587...
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Mon, 01 Sep 2025 17:32:17 +0200 
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 220 and/or bulk e-mail.
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: EHLO localhost
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-SIZE 262144000
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-8BITMIME
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-PIPELINING
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-PIPECONNECT
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-AUTH PLAIN LOGIN
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-STARTTLS
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250 HELP
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: STARTTLS
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 220 TLS go ahead
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: EHLO localhost
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-SIZE 262144000
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-8BITMIME
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-PIPELINING
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-PIPECONNECT
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250-AUTH PLAIN LOGIN
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250 HELP
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: AUTH PLAIN
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 334 
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: ****** [56]
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 235 Authentication succeeded
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: MAIL FROM:<opoinsot@accens-avocats.com>
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250 OK
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: RCPT TO:<noreply@sncf-connect.com>
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250 Accepted
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: DATA
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 354 Enter message, ending with "." on a line by itself
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: MIME-Version: 1.0
+Date: Mon, 01 Sep 2025 15:32:17 +0000
+From: opoinsot@accens-avocats.com
+To: noreply@sncf-connect.com
+Subject: test dolibarr
+Message-ID: <b403a9920f8ebabe16b5063a3179db87@accens-avocats.com>
+X-Sender: opoinsot@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+test
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: 
+.
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 250 OK id=1ut6W3-00000007VqU-0tSN
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Send: QUIT
+[01-Sep-2025 15:32:18 +0000]: <9dtsd9r6> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 07:54:10 +0000]: <et1p8i9f> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 09:54:11 +0200 
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-STARTTLS
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Send: STARTTLS
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 220 TLS go ahead
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Send: AUTH PLAIN
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 334 
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Send: ****** [52]
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Recv: 235 Authentication succeeded
+[02-Sep-2025 07:54:11 +0000]: <et1p8i9f> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Recv: 250 OK
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Recv: 250 Accepted
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Send: DATA
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 07:54:10 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: test dolibarr
+Message-ID: <d031a471bad45b251a72bc3678e471e6@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+test
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Send: 
+.
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Recv: 250 OK id=1utLqH-00000005UfI-1Oyp
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Send: QUIT
+[02-Sep-2025 07:54:12 +0000]: <et1p8i9f> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 08:42:15 +0000]: <et1p8i9f> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 10:42:15 +0200 
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-STARTTLS
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: STARTTLS
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 220 TLS go ahead
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: AUTH PLAIN
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 334 
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: ****** [52]
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 235 Authentication succeeded
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250 OK
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250 Accepted
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: DATA
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 08:42:15 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: test dolibarr
+Message-ID: <f674aa1424eae891ff3b846b79d9b66e@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+test pour l'envoi
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: 
+.
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 250 OK id=1utMao-00000006Hwz-0R96
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Send: QUIT
+[02-Sep-2025 08:42:16 +0000]: <et1p8i9f> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 08:47:35 +0000]: <et1p8i9f> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 10:47:35 +0200 
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-STARTTLS
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: STARTTLS
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 220 TLS go ahead
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: AUTH PLAIN
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 334 
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: ****** [52]
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 235 Authentication succeeded
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250 OK
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250 Accepted
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: DATA
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 08:47:35 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: test
+Message-ID: <e7c4dec10460a6e85c2eddebcee72093@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+un autre projet
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: 
+.
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Recv: 250 OK id=1utMfy-00000006N1x-0pW6
+[02-Sep-2025 08:47:36 +0000]: <et1p8i9f> Send: QUIT
+[02-Sep-2025 08:47:37 +0000]: <et1p8i9f> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 08:50:09 +0000]: <et1p8i9f> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 08:50:10 +0000]: <et1p8i9f> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 10:50:10 +0200 
+[02-Sep-2025 08:50:10 +0000]: <et1p8i9f> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 08:50:10 +0000]: <et1p8i9f> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 08:50:10 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-STARTTLS
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: STARTTLS
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 220 TLS go ahead
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: AUTH PLAIN
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 334 
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: ****** [52]
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 235 Authentication succeeded
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250 OK
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250 Accepted
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: DATA
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 08:50:09 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: test
+Message-ID: <45bf7e01333f6dd9a2ed8f2992a9b1ce@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+un test 2
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: 
+.
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 250 OK id=1utMiS-00000006Q3G-2H7a
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Send: QUIT
+[02-Sep-2025 08:50:11 +0000]: <et1p8i9f> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 12:39:38 +0000]: <et1p8i9f> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 14:39:39 +0200 
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-STARTTLS
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: STARTTLS
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 220 TLS go ahead
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: AUTH PLAIN
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 334 
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: ****** [52]
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 235 Authentication succeeded
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250 OK
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250 Accepted
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: DATA
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 12:39:38 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: test
+Message-ID: <dec14055a0b44afe0bdcd5654a224f8a@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+test pour moi
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: 
+.
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 250 OK id=1utQIX-0000000AF6B-3oB4
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Send: QUIT
+[02-Sep-2025 12:39:40 +0000]: <et1p8i9f> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 12:42:51 +0000]: <et1p8i9f> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 14:42:51 +0200 
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 250-STARTTLS
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Send: STARTTLS
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Recv: 220 TLS go ahead
+[02-Sep-2025 12:42:52 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Send: AUTH PLAIN
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 334 
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Send: ****** [52]
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 235 Authentication succeeded
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250 OK
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Send: RCPT TO:<noreply@sncf-connect.com>
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250 Accepted
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Send: DATA
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 12:42:51 +0000
+From: rgpd@accens-avocats.com
+To: noreply@sncf-connect.com
+Subject: monaco
+Message-ID: <afb95b536c81339379e4d804f01088c4@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+monaco
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Send: 
+.
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 250 OK id=1utQLe-0000000AI7T-1vLF
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Send: QUIT
+[02-Sep-2025 12:42:53 +0000]: <et1p8i9f> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 12:44:44 +0000]: <et1p8i9f> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 14:44:44 +0200 
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 250-STARTTLS
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Send: STARTTLS
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Recv: 220 TLS go ahead
+[02-Sep-2025 12:44:45 +0000]: <et1p8i9f> Send: EHLO localhost
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250-SIZE 262144000
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250-8BITMIME
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250-PIPELINING
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250-PIPECONNECT
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250 HELP
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Send: AUTH PLAIN
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 334 
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Send: ****** [52]
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 235 Authentication succeeded
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250 OK
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Send: RCPT TO:<noreply@sncf-connect.com>
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250 Accepted
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Send: DATA
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 12:44:44 +0000
+From: rgpd@accens-avocats.com
+To: noreply@sncf-connect.com
+Subject: une question
+Message-ID: <b00c39208864efd444fb68787da70530@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+question
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Send: 
+.
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 250 OK id=1utQNT-0000000AK6M-276x
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Send: QUIT
+[02-Sep-2025 12:44:46 +0000]: <et1p8i9f> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:00:25 +0000]: <f0mfo8cm> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:00:25 +0200 
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-STARTTLS
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: STARTTLS
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 220 TLS go ahead
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: AUTH PLAIN
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 334 
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: ****** [52]
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 235 Authentication succeeded
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250 OK
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250 Accepted
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: DATA
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 13:00:25 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: test
+Message-ID: <ccfa5fc4661ace47c85c55c4aa3b9152@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+exemple pour doliarr
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: 
+.
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 250 OK id=1utQce-0000000AbVF-10ey
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Send: QUIT
+[02-Sep-2025 13:00:26 +0000]: <f0mfo8cm> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:03:56 +0000]: <f0mfo8cm> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:03:56 +0200 
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-STARTTLS
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: STARTTLS
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 220 TLS go ahead
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: AUTH PLAIN
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 334 
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: ****** [52]
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 235 Authentication succeeded
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250 OK
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250 Accepted
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: DATA
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 13:03:56 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: tets
+Message-ID: <0ec8e1557e5bf7b5877a4232eaade3bc@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+exx
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: 
+.
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 250 OK id=1utQg2-0000000Aexj-3rT9
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Send: QUIT
+[02-Sep-2025 13:03:57 +0000]: <f0mfo8cm> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:12:07 +0000]: <f0mfo8cm> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:12:07 +0200 
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-STARTTLS
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: STARTTLS
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 220 TLS go ahead
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: AUTH PLAIN
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 334 
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: ****** [52]
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 235 Authentication succeeded
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250 OK
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250 Accepted
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: DATA
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 13:12:07 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: test 3
+Message-ID: <c7ac9a3c403990653789ac20c5760aa8@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+test pour voir
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: 
+.
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 250 OK id=1utQny-0000000AnU7-0SvN
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Send: QUIT
+[02-Sep-2025 13:12:08 +0000]: <f0mfo8cm> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:17:04 +0000]: <f0mfo8cm> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:17:04 +0200 
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 250-STARTTLS
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Send: STARTTLS
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Recv: 220 TLS go ahead
+[02-Sep-2025 13:17:05 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Send: AUTH PLAIN
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 334 
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Send: ****** [52]
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 235 Authentication succeeded
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250 OK
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250 Accepted
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Send: DATA
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 13:17:04 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: test
+Message-ID: <580f0345af885b9d37c771f375d53449@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+un exemple
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Send: 
+.
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 250 OK id=1utQsl-0000000AsXw-24tN
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Send: QUIT
+[02-Sep-2025 13:17:06 +0000]: <f0mfo8cm> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:20:31 +0000]: <f0mfo8cm> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:20:31 +0200 
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-STARTTLS
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Send: STARTTLS
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 220 TLS go ahead
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Send: AUTH PLAIN
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Recv: 334 
+[02-Sep-2025 13:20:32 +0000]: <f0mfo8cm> Send: ****** [52]
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Recv: 235 Authentication succeeded
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Recv: 250 OK
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Recv: 250 Accepted
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Send: DATA
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 13:20:31 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: un exemple de ce qu'il faut  faire
+Message-ID: <3a74862bcb6bf15ca3d4d524c3754f05@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+juste un exemple
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Send: 
+.
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Recv: 250 OK id=1utQw6-0000000AwIx-1iVe
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Send: QUIT
+[02-Sep-2025 13:20:33 +0000]: <f0mfo8cm> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:38:29 +0000]: <f0mfo8cm> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:38:29 +0200 
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-STARTTLS
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: STARTTLS
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 220 TLS go ahead
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: EHLO localhost
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-8BITMIME
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-PIPELINING
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250 HELP
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: AUTH PLAIN
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 334 
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: ****** [52]
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 235 Authentication succeeded
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250 OK
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: RCPT TO:<guydany8@gmail.com>
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250 Accepted
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: DATA
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 354 Enter message, ending with "." on a line by itself
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: MIME-Version: 1.0
+Date: Tue, 02 Sep 2025 13:38:29 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: une exemple
+Message-ID: <53314a011f80734ac1e151f48e0fb99a@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+
+Mode composition détecté, affichage du formulaire
+bandeau.js:2407 ✅ Bandeau initialisé
+roundcube.php?_task=mail&_action=compose&_to=guydany8%40gmail.com&preselect_type=societe&preselect_id=2&preselect_name=gndayizeye:1788 
+🚀 Roundcube Module - Version complète avec autologin chargée
+roundcube.php?_task=mail&_action=compose&_to=guydany8%40gmail.com&preselect_type=societe&preselect_id=2&preselect_name=gndayizeye:1789 
+📧 Comptes disponibles: 4
+roundcube.php?_task=mail&_action=compose&_to=guydany8%40gmail.com&preselect_type=societe&preselect_id=2&preselect_name=gndayizeye:1790 
+🔄 Comptes détectés: (4) [{…}, {…}, {…}, {…}]
+roundcube.php?_task=mail&_action=compose&_to=guydany8%40gmail.com&preselect_type=societe&preselect_id=2&preselect_name=gndayizeye:1861 
+Paramètres de présélection détectés: {type: 'societe', id: '2', name: 
+'gndayizeye'}
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: 
+.
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 250 OK id=1utRDU-0000000BFxs-0EE3
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Send: QUIT
+[02-Sep-2025 13:38:30 +0000]: <f0mfo8cm> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:49:10 +0000]: <3fabjpq3> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:49:11 +0200 
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-STARTTLS
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Send: STARTTLS
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 220 TLS go ahead
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Send: AUTH PLAIN
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Recv: 334 
+[02-Sep-2025 13:49:12 +0000]: <3fabjpq3> Send: ****** [64]
+[02-Sep-2025 13:49:14 +0000]: <3fabjpq3> Recv: 535 Incorrect authentication data
+[02-Sep-2025 13:49:14 +0000]: <3fabjpq3> Send: QUIT
+[02-Sep-2025 13:49:14 +0000]: <3fabjpq3> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:51:35 +0000]: <3fabjpq3> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:51:35 +0200 
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-STARTTLS
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Send: STARTTLS
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 220 TLS go ahead
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Send: AUTH PLAIN
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Recv: 334 
+[02-Sep-2025 13:51:36 +0000]: <3fabjpq3> Send: ****** [64]
+[02-Sep-2025 13:51:38 +0000]: <3fabjpq3> Recv: 535 Incorrect authentication data
+[02-Sep-2025 13:51:38 +0000]: <3fabjpq3> Send: QUIT
+[02-Sep-2025 13:51:38 +0000]: <3fabjpq3> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:55:21 +0000]: <3fabjpq3> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:55:22 +0200 
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-STARTTLS
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Send: STARTTLS
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 220 TLS go ahead
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Send: AUTH PLAIN
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Recv: 334 
+[02-Sep-2025 13:55:22 +0000]: <3fabjpq3> Send: ****** [64]
+[02-Sep-2025 13:55:24 +0000]: <3fabjpq3> Recv: 535 Incorrect authentication data
+[02-Sep-2025 13:55:24 +0000]: <3fabjpq3> Send: QUIT
+[02-Sep-2025 13:55:24 +0000]: <3fabjpq3> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 13:57:28 +0000]: <3fabjpq3> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 15:57:29 +0200 
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-STARTTLS
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Send: STARTTLS
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 220 TLS go ahead
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Send: AUTH PLAIN
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Recv: 334 
+[02-Sep-2025 13:57:29 +0000]: <3fabjpq3> Send: ****** [64]
+[02-Sep-2025 13:57:31 +0000]: <3fabjpq3> Recv: 535 Incorrect authentication data
+[02-Sep-2025 13:57:31 +0000]: <3fabjpq3> Send: QUIT
+[02-Sep-2025 13:57:31 +0000]: <3fabjpq3> Recv: 221 sucralose.o2switch.net closing connection
+[02-Sep-2025 15:19:33 +0000]: <3fabjpq3> Connecting to tls://sucralose.o2switch.net:587...
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 02 Sep 2025 17:19:34 +0200 
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 220 and/or bulk e-mail.
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-STARTTLS
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Send: STARTTLS
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 220 TLS go ahead
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Send: EHLO localhost
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-SIZE 262144000
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-8BITMIME
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-PIPELINING
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-PIPECONNECT
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250-AUTH PLAIN LOGIN
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 250 HELP
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Send: AUTH PLAIN
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Recv: 334 
+[02-Sep-2025 15:19:34 +0000]: <3fabjpq3> Send: ****** [64]
+[02-Sep-2025 15:19:36 +0000]: <3fabjpq3> Recv: 535 Incorrect authentication data
+[02-Sep-2025 15:19:36 +0000]: <3fabjpq3> Send: QUIT
+[02-Sep-2025 15:19:36 +0000]: <3fabjpq3> Recv: 221 sucralose.o2switch.net closing connection
+[03-Sep-2025 13:48:37 +0000]: <9vv0rr0g> Connecting to tls://sucralose.o2switch.net:587...
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Wed, 03 Sep 2025 15:48:37 +0200 
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 220 and/or bulk e-mail.
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Send: EHLO localhost
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 250-SIZE 262144000
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 250-8BITMIME
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 250-PIPELINING
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 250-PIPECONNECT
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 250-AUTH PLAIN LOGIN
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 250-STARTTLS
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 250 HELP
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Send: STARTTLS
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Recv: 220 TLS go ahead
+[03-Sep-2025 13:48:38 +0000]: <9vv0rr0g> Send: EHLO localhost
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Recv: 250-SIZE 262144000
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Recv: 250-8BITMIME
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Recv: 250-PIPELINING
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Recv: 250-PIPECONNECT
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Recv: 250-AUTH PLAIN LOGIN
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Recv: 250 HELP
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Send: AUTH PLAIN
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Recv: 334 
+[03-Sep-2025 13:48:39 +0000]: <9vv0rr0g> Send: ****** [64]
+[03-Sep-2025 13:48:40 +0000]: <9vv0rr0g> Recv: 535 Incorrect authentication data
+[03-Sep-2025 13:48:40 +0000]: <9vv0rr0g> Send: QUIT
+[03-Sep-2025 13:48:40 +0000]: <9vv0rr0g> Recv: 221 sucralose.o2switch.net closing connection
+[03-Sep-2025 14:07:02 +0000]: <9vv0rr0g> Connecting to tls://sucralose.o2switch.net:587...
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Wed, 03 Sep 2025 16:07:03 +0200 
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 220 and/or bulk e-mail.
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Send: EHLO localhost
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-SIZE 262144000
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-8BITMIME
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-PIPELINING
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-PIPECONNECT
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-AUTH PLAIN LOGIN
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-STARTTLS
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250 HELP
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Send: STARTTLS
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 220 TLS go ahead
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Send: EHLO localhost
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-SIZE 262144000
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-8BITMIME
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-PIPELINING
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-PIPECONNECT
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250-AUTH PLAIN LOGIN
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 250 HELP
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Send: AUTH PLAIN
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Recv: 334 
+[03-Sep-2025 14:07:03 +0000]: <9vv0rr0g> Send: ****** [64]
+[03-Sep-2025 14:07:05 +0000]: <9vv0rr0g> Recv: 535 Incorrect authentication data
+[03-Sep-2025 14:07:05 +0000]: <9vv0rr0g> Send: QUIT
+[03-Sep-2025 14:07:05 +0000]: <9vv0rr0g> Recv: 221 sucralose.o2switch.net closing connection
+[03-Sep-2025 15:27:59 +0000]: <3503g0op> Connecting to tls://sucralose.o2switch.net:587...
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Wed, 03 Sep 2025 17:27:59 +0200 
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 220 and/or bulk e-mail.
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: EHLO localhost
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-SIZE 262144000
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-8BITMIME
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-PIPELINING
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-PIPECONNECT
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-AUTH PLAIN LOGIN
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-STARTTLS
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250 HELP
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: STARTTLS
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 220 TLS go ahead
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: EHLO localhost
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-SIZE 262144000
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-8BITMIME
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-PIPELINING
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-PIPECONNECT
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250-AUTH PLAIN LOGIN
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250 HELP
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: AUTH PLAIN
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 334 
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: ****** [56]
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 235 Authentication succeeded
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: MAIL FROM:<opoinsot@accens-avocats.com>
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250 OK
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: RCPT TO:<guydany8@gmail.com>
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250 Accepted
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: DATA
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 354 Enter message, ending with "." on a line by itself
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: MIME-Version: 1.0
+Date: Wed, 03 Sep 2025 15:27:59 +0000
+From: opoinsot@accens-avocats.com
+To: guydany8@gmail.com
+Subject: un test
+Message-ID: <8d9ae94bf0d60028e7abeaf5005c32ef@accens-avocats.com>
+X-Sender: opoinsot@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+test
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: 
+.
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 250 OK id=1utpP0-000000007jf-2raX
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Send: QUIT
+[03-Sep-2025 15:28:00 +0000]: <3503g0op> Recv: 221 sucralose.o2switch.net closing connection
+[04-Sep-2025 12:16:30 +0000]: <rdt9basd> Connecting to tls://sucralose.o2switch.net:587...
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 04 Sep 2025 14:16:31 +0200 
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 220 and/or bulk e-mail.
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: EHLO localhost
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-SIZE 262144000
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-8BITMIME
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-PIPELINING
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-PIPECONNECT
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-AUTH PLAIN LOGIN
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-STARTTLS
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250 HELP
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: STARTTLS
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 220 TLS go ahead
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: EHLO localhost
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-SIZE 262144000
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-8BITMIME
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-PIPELINING
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-PIPECONNECT
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250-AUTH PLAIN LOGIN
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250 HELP
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: AUTH PLAIN
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 334 
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: ****** [56]
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 235 Authentication succeeded
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: MAIL FROM:<opoinsot@accens-avocats.com>
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250 OK
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: RCPT TO:<guykeny.ndayizeye8@gmail.com>
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250 Accepted
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: DATA
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 354 Enter message, ending with "." on a line by itself
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: MIME-Version: 1.0
+Date: Thu, 04 Sep 2025 12:16:30 +0000
+From: opoinsot@accens-avocats.com
+To: guykeny.ndayizeye8@gmail.com
+Subject: test
+Message-ID: <6f2a0ed029bbb06c78327a7af264dda4@accens-avocats.com>
+X-Sender: opoinsot@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+un test pour voir
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: 
+.
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 250 OK id=1uu8tG-00000001MIn-3jrm
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Send: QUIT
+[04-Sep-2025 12:16:31 +0000]: <rdt9basd> Recv: 221 sucralose.o2switch.net closing connection
+[15-Sep-2025 07:25:01 +0000]: <66hur5an> Connecting to tls://sucralose.o2switch.net:587...
+[15-Sep-2025 07:25:02 +0000]: <66hur5an> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Mon, 15 Sep 2025 09:25:04 +0200 
+[15-Sep-2025 07:25:02 +0000]: <66hur5an> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[15-Sep-2025 07:25:02 +0000]: <66hur5an> Recv: 220 and/or bulk e-mail.
+[15-Sep-2025 07:25:02 +0000]: <66hur5an> Send: EHLO localhost
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-SIZE 262144000
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-8BITMIME
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-PIPELINING
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-PIPECONNECT
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-AUTH PLAIN LOGIN
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-STARTTLS
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250 HELP
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: STARTTLS
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 220 TLS go ahead
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: EHLO localhost
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-SIZE 262144000
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-8BITMIME
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-PIPELINING
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-PIPECONNECT
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250-AUTH PLAIN LOGIN
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250 HELP
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: AUTH PLAIN
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 334 
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: ****** [56]
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 235 Authentication succeeded
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: MAIL FROM:<opoinsot@accens-avocats.com>
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250 OK
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: RCPT TO:<guykeny.ndayizeye8@gmail.com>
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250 Accepted
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: DATA
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 354 Enter message, ending with "." on a line by itself
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: MIME-Version: 1.0
+Date: Mon, 15 Sep 2025 07:25:01 +0000
+From: opoinsot@accens-avocats.com
+To: guykeny.ndayizeye8@gmail.com
+Subject: test dolibarr
+Message-ID: <e6c0756f8e9566b00d320676cb5e109d@accens-avocats.com>
+X-Sender: opoinsot@accens-avocats.com
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+c'est pour un test
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: 
+.
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 250 OK id=1uy3aD-0000000CWaN-1vPC
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Send: QUIT
+[15-Sep-2025 07:25:03 +0000]: <66hur5an> Recv: 221 sucralose.o2switch.net closing connection
+[18-Sep-2025 07:38:33 +0000]: <6mhd30pc> Connecting to tls://sucralose.o2switch.net:587...
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 18 Sep 2025 09:38:34 +0200 
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 220 and/or bulk e-mail.
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: EHLO localhost
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-SIZE 262144000
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-8BITMIME
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-PIPELINING
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-PIPECONNECT
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-AUTH PLAIN LOGIN
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-STARTTLS
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250 HELP
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: STARTTLS
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 220 TLS go ahead
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: EHLO localhost
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-SIZE 262144000
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-8BITMIME
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-PIPELINING
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-PIPECONNECT
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250-AUTH PLAIN LOGIN
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250 HELP
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: AUTH PLAIN
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 334 
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: ****** [52]
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 235 Authentication succeeded
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250 OK
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: RCPT TO:<guyday8@gmail.com>
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250 Accepted
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: DATA
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 354 Enter message, ending with "." on a line by itself
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: MIME-Version: 1.0
+Date: Thu, 18 Sep 2025 07:38:33 +0000
+From: rgpd@accens-avocats.com
+To: guyday8@gmail.com
+Subject: test dolibarr
+Message-ID: <bd560897f7e9cee1503bf256b3a18386@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/alternative;
+ boundary="=_83101a288a16db4c909aadaefead4f95"
+
+--=_83101a288a16db4c909aadaefead4f95
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+bonjoir
+--=_83101a288a16db4c909aadaefead4f95
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>bonjoir</p>
+
+</body></html>
+
+--=_83101a288a16db4c909aadaefead4f95--
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: .
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 250 OK id=1uz9Du-0000000C7S7-43xQ
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Send: QUIT
+[18-Sep-2025 07:38:35 +0000]: <6mhd30pc> Recv: 221 sucralose.o2switch.net closing connection
+[18-Sep-2025 07:45:48 +0000]: <6mhd30pc> Connecting to tls://sucralose.o2switch.net:587...
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 18 Sep 2025 09:45:48 +0200 
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 220 and/or bulk e-mail.
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: EHLO localhost
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-SIZE 262144000
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-8BITMIME
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-PIPELINING
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-PIPECONNECT
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-AUTH PLAIN LOGIN
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-STARTTLS
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250 HELP
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: STARTTLS
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 220 TLS go ahead
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: EHLO localhost
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-SIZE 262144000
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-8BITMIME
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-PIPELINING
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-PIPECONNECT
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250-AUTH PLAIN LOGIN
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250 HELP
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: AUTH PLAIN
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 334 
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: ****** [52]
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 235 Authentication succeeded
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250 OK
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: RCPT TO:<guyday8@gmail.com>
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250 Accepted
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: DATA
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 354 Enter message, ending with "." on a line by itself
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: MIME-Version: 1.0
+Date: Thu, 18 Sep 2025 07:45:48 +0000
+From: rgpd@accens-avocats.com
+To: Guyday8 <guyday8@gmail.com>
+Subject: test dolibarr
+Message-ID: <68dab673626c92d37816894716d22a98@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/alternative;
+ boundary="=_6292f8300f28ab2fae2e4666ea42e0b2"
+
+--=_6292f8300f28ab2fae2e4666ea42e0b2
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+test 2
+--=_6292f8300f28ab2fae2e4666ea42e0b2
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>test 2</p>
+
+</body></html>
+
+--=_6292f8300f28ab2fae2e4666ea42e0b2--
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: .
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 250 OK id=1uz9Ku-0000000CFZr-428h
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Send: QUIT
+[18-Sep-2025 07:45:49 +0000]: <6mhd30pc> Recv: 221 sucralose.o2switch.net closing connection
+[19-Sep-2025 12:09:49 +0000]: <ngke44qs> Connecting to tls://sucralose.o2switch.net:587...
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Fri, 19 Sep 2025 14:09:50 +0200 
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 220 and/or bulk e-mail.
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: EHLO localhost
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-SIZE 262144000
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-8BITMIME
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-PIPELINING
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-PIPECONNECT
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-AUTH PLAIN LOGIN
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-STARTTLS
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250 HELP
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: STARTTLS
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 220 TLS go ahead
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: EHLO localhost
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-SIZE 262144000
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-8BITMIME
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-PIPELINING
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-PIPECONNECT
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250-AUTH PLAIN LOGIN
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250 HELP
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: AUTH PLAIN
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 334 
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: ****** [52]
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 235 Authentication succeeded
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250 OK
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: RCPT TO:<guykeny.ndayizeye8@gmail.com>
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250 Accepted
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: DATA
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 354 Enter message, ending with "." on a line by itself
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: MIME-Version: 1.0
+Date: Fri, 19 Sep 2025 12:09:49 +0000
+From: rgpd@accens-avocats.com
+To: guykeny.ndayizeye8@gmail.com
+Subject: bonjour
+Message-ID: <e0ffed3936185d69466895e68924d74f@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_c4afe406806b9764e0818ae788b21555"
+
+--=_c4afe406806b9764e0818ae788b21555
+Content-Type: multipart/alternative;
+ boundary="=_bccc00e995138c3f789598e3afb07b05"
+
+--=_bccc00e995138c3f789598e3afb07b05
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+un test
+
+--
+--=_bccc00e995138c3f789598e3afb07b05
+Content-Type: multipart/related;
+ boundary="=_7c3c77940c5419a5880d7cd2a1220467"
+
+--=_7c3c77940c5419a5880d7cd2a1220467
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>un test</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_7c3c77940c5419a5880d7cd2a1220467
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 209223 bytes]
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: .
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 250 OK id=1uzZvz-00000003qk5-2ckk
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Send: QUIT
+[19-Sep-2025 12:09:51 +0000]: <ngke44qs> Recv: 221 sucralose.o2switch.net closing connection
+[23-Sep-2025 07:33:35 +0000]: <ca66a2ok> Connecting to tls://sucralose.o2switch.net:587...
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 23 Sep 2025 09:33:36 +0200 
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 220 and/or bulk e-mail.
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: EHLO localhost
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-SIZE 262144000
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-8BITMIME
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-PIPELINING
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-PIPECONNECT
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-AUTH PLAIN LOGIN
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-STARTTLS
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250 HELP
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: STARTTLS
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 220 TLS go ahead
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: EHLO localhost
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-SIZE 262144000
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-8BITMIME
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-PIPELINING
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-PIPECONNECT
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250-AUTH PLAIN LOGIN
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250 HELP
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: AUTH PLAIN
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 334 
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: ****** [52]
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 235 Authentication succeeded
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250 OK
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: RCPT TO:<guydany8@gmail.com>
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250 Accepted
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: DATA
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 354 Enter message, ending with "." on a line by itself
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: MIME-Version: 1.0
+Date: Tue, 23 Sep 2025 07:33:35 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: une question
+Message-ID: <2c6d39fc80a7702ccdcb1cf651f1110e@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_d8e9df9aa8f7d92755277faf69c0e1f4"
+
+--=_d8e9df9aa8f7d92755277faf69c0e1f4
+Content-Type: multipart/alternative;
+ boundary="=_a3e49011d3610b54606bfbad1e169734"
+
+--=_a3e49011d3610b54606bfbad1e169734
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+--
+--=_a3e49011d3610b54606bfbad1e169734
+Content-Type: multipart/related;
+ boundary="=_2465662ade6f21feeef37e161c8fedff"
+
+--=_2465662ade6f21feeef37e161c8fedff
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p><br /></p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_2465662ade6f21feeef37e161c8fedff
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 209206 bytes]
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: .
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 250 OK id=1v0xWr-0000000EnVb-3T0T
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Send: QUIT
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Recv: 221 sucralose.o2switch.net closing connection
+[23-Sep-2025 07:39:26 +0000]: <ca66a2ok> Connecting to tls://sucralose.o2switch.net:587...
+[23-Sep-2025 07:39:27 +0000]: <ca66a2ok> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 23 Sep 2025 09:39:28 +0200 
+[23-Sep-2025 07:39:27 +0000]: <ca66a2ok> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[23-Sep-2025 07:39:27 +0000]: <ca66a2ok> Recv: 220 and/or bulk e-mail.
+[23-Sep-2025 07:39:27 +0000]: <ca66a2ok> Send: EHLO localhost
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-SIZE 262144000
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-8BITMIME
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-PIPELINING
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-PIPECONNECT
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-AUTH PLAIN LOGIN
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-STARTTLS
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250 HELP
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: STARTTLS
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 220 TLS go ahead
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: EHLO localhost
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-SIZE 262144000
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-8BITMIME
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-PIPELINING
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-PIPECONNECT
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250-AUTH PLAIN LOGIN
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250 HELP
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: AUTH PLAIN
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 334 
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: ****** [52]
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 235 Authentication succeeded
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250 OK
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: RCPT TO:<guydany8@gmail.com>
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250 Accepted
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: DATA
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 354 Enter message, ending with "." on a line by itself
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: MIME-Version: 1.0
+Date: Tue, 23 Sep 2025 07:39:26 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: dolibarr test
+Message-ID: <1a33ef5ea1cfda8a04605c3da243006f@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_d177ffe71d9310f7408ed3b17e3a2e5b"
+
+--=_d177ffe71d9310f7408ed3b17e3a2e5b
+Content-Type: multipart/alternative;
+ boundary="=_20377b44ecc2d9a950d2e95f76d265eb"
+
+--=_20377b44ecc2d9a950d2e95f76d265eb
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+uen question    dsv--
+--=_20377b44ecc2d9a950d2e95f76d265eb
+Content-Type: multipart/related;
+ boundary="=_489fb145f6cc8a9c0c437b3ecea8ce43"
+
+--=_489fb145f6cc8a9c0c437b3ecea8ce43
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p><span style=3D"font-size: 10pt;">uen question&nbsp; &nbsp; dsv--</span><=
+/p>
+<div id=3D"signature">
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_489fb145f6cc8a9c0c437b3ecea8ce43
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 209285 bytes]
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: .
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 250 OK id=1v0xcX-0000000EtDz-2BHP
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Send: QUIT
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Recv: 221 sucralose.o2switch.net closing connection
+[23-Sep-2025 08:58:56 +0000]: <ca66a2ok> Connecting to tls://sucralose.o2switch.net:587...
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 23 Sep 2025 10:58:57 +0200 
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 220 and/or bulk e-mail.
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Send: EHLO localhost
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 250-SIZE 262144000
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 250-8BITMIME
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 250-PIPELINING
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 250-PIPECONNECT
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 250-AUTH PLAIN LOGIN
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 250-STARTTLS
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Recv: 250 HELP
+[23-Sep-2025 08:58:57 +0000]: <ca66a2ok> Send: STARTTLS
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 220 TLS go ahead
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Send: EHLO localhost
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250-SIZE 262144000
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250-8BITMIME
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250-PIPELINING
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250-PIPECONNECT
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250-AUTH PLAIN LOGIN
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250 HELP
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Send: AUTH PLAIN
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 334 
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Send: ****** [52]
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 235 Authentication succeeded
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250 OK
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Send: RCPT TO:<guydany8@gmail.com>
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250 Accepted
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Send: DATA
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 354 Enter message, ending with "." on a line by itself
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Send: MIME-Version: 1.0
+Date: Tue, 23 Sep 2025 08:58:56 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: un exemple pour dolibarr
+Message-ID: <75c53677b9cb2003aeea6bcb451e2b81@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_89105e1fb4ca9b5b3feff117725507bb"
+
+--=_89105e1fb4ca9b5b3feff117725507bb
+Content-Type: multipart/alternative;
+ boundary="=_78d00873c306274e2851977522613fc0"
+
+--=_78d00873c306274e2851977522613fc0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+sgbfbdn
+
+--
+--=_78d00873c306274e2851977522613fc0
+Content-Type: multipart/related;
+ boundary="=_7f98b8477df424566c5ae23d5dd83870"
+
+--=_7f98b8477df424566c5ae23d5dd83870
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>sgbfbdn</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_7f98b8477df424566c5ae23d5dd83870
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 138781 bytes]
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Send: .
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 250 OK id=1v0yrT-0000000GFuH-0Kyj
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Send: QUIT
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Recv: 221 sucralose.o2switch.net closing connection
+[23-Sep-2025 09:00:47 +0000]: <ca66a2ok> Connecting to tls://sucralose.o2switch.net:587...
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Tue, 23 Sep 2025 11:00:47 +0200 
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 220 and/or bulk e-mail.
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: EHLO localhost
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-SIZE 262144000
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-8BITMIME
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-PIPELINING
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-PIPECONNECT
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-AUTH PLAIN LOGIN
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-STARTTLS
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250 HELP
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: STARTTLS
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 220 TLS go ahead
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: EHLO localhost
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-SIZE 262144000
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-8BITMIME
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-PIPELINING
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-PIPECONNECT
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250-AUTH PLAIN LOGIN
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250 HELP
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: AUTH PLAIN
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 334 
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: ****** [52]
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 235 Authentication succeeded
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250 OK
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: RCPT TO:<guydany8@gmail.com>
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250 Accepted
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: DATA
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 354 Enter message, ending with "." on a line by itself
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: MIME-Version: 1.0
+Date: Tue, 23 Sep 2025 09:00:47 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: un exemple
+Message-ID: <880a21ab221960d12dd5ae0aeacb550f@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_2d76da6a8ab3406ad5152666f8d65489"
+
+--=_2d76da6a8ab3406ad5152666f8d65489
+Content-Type: multipart/alternative;
+ boundary="=_92a356102dcf5746ff1f73655a0effe8"
+
+--=_92a356102dcf5746ff1f73655a0effe8
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+zgzgzeger
+
+-- 
+z
+--=_92a356102dcf5746ff1f73655a0effe8
+Content-Type: multipart/related;
+ boundary="=_e06261b3d2d774e8e49183520c9bec50"
+
+--=_e06261b3d2d774e8e49183520c9bec50
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>zgzgzeger</p>
+<div id=3D"signature">-- <br />
+<p>z<img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wi=
+dth=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_e06261b3d2d774e8e49183520c9bec50
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 160373 bytes]
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: .
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 250 OK id=1v0ytF-0000000GIWI-0w1Z
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Send: QUIT
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Recv: 221 sucralose.o2switch.net closing connection
+[25-Sep-2025 07:33:35 +0000]: <cliti9k3> Connecting to tls://sucralose.o2switch.net:587...
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 25 Sep 2025 09:33:38 +0200 
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 220 and/or bulk e-mail.
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-STARTTLS
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: STARTTLS
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 220 TLS go ahead
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: AUTH PLAIN
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 334 
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: ****** [52]
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 235 Authentication succeeded
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250 OK
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: RCPT TO:<guydany8@gmail.com>
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 250 Accepted
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: DATA
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Recv: 354 Enter message, ending with "." on a line by itself
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: MIME-Version: 1.0
+Date: Thu, 25 Sep 2025 07:33:35 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: un question
+Message-ID: <8a54ab4e1358dc7a10a0b92f23d03bfc@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_2b114b6fcf28cc8e87a178194ee0197f"
+
+--=_2b114b6fcf28cc8e87a178194ee0197f
+Content-Type: multipart/alternative;
+ boundary="=_10db39b35d0afd212c2353eabe06f853"
+
+--=_10db39b35d0afd212c2353eabe06f853
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+une question
+
+--
+--=_10db39b35d0afd212c2353eabe06f853
+Content-Type: multipart/related;
+ boundary="=_51643eef4402c7f6bf1b00a90049d764"
+
+--=_51643eef4402c7f6bf1b00a90049d764
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>une question&nbsp;</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_51643eef4402c7f6bf1b00a90049d764
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 209233 bytes]
+[25-Sep-2025 07:33:39 +0000]: <cliti9k3> Send: .
+[25-Sep-2025 07:33:40 +0000]: <cliti9k3> Recv: 250 OK id=1v1gU0-00000007Vpj-2wv1
+[25-Sep-2025 07:33:42 +0000]: <cliti9k3> Send: QUIT
+[25-Sep-2025 07:33:43 +0000]: <cliti9k3> Recv: 221 sucralose.o2switch.net closing connection
+[25-Sep-2025 07:36:36 +0000]: <6t86jl91> Connecting to tls://sucralose.o2switch.net:587...
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 25 Sep 2025 09:36:38 +0200 
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 220 and/or bulk e-mail.
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Send: EHLO localhost
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-8BITMIME
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-PIPELINING
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-STARTTLS
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250 HELP
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Send: STARTTLS
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 220 TLS go ahead
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Send: EHLO localhost
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-8BITMIME
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-PIPELINING
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250 HELP
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Send: AUTH PLAIN
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 334 
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Send: ****** [52]
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 235 Authentication succeeded
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Recv: 250 OK
+[25-Sep-2025 07:36:38 +0000]: <6t86jl91> Send: RCPT TO:<guydany8@gmail.com>
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Recv: 250 Accepted
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Send: DATA
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Recv: 354 Enter message, ending with "." on a line by itself
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Send: MIME-Version: 1.0
+Date: Thu, 25 Sep 2025 07:36:36 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: zefzre
+Message-ID: <79ee722ba887a8ee165980c5fa28dd70@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_4b8305169858c6015be58f98516b0204"
+
+--=_4b8305169858c6015be58f98516b0204
+Content-Type: multipart/alternative;
+ boundary="=_955a3d7adf337fc5ad6517c955ebfef6"
+
+--=_955a3d7adf337fc5ad6517c955ebfef6
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+un question
+
+--
+--=_955a3d7adf337fc5ad6517c955ebfef6
+Content-Type: multipart/related;
+ boundary="=_5af18561cef85a59c3a9eaea96add2c6"
+
+--=_5af18561cef85a59c3a9eaea96add2c6
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>un question</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_5af18561cef85a59c3a9eaea96add2c6
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 138771 bytes]
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Send: .
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Recv: 250 OK id=1v1gWt-00000007YpB-47Xd
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Send: QUIT
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Recv: 221 sucralose.o2switch.net closing connection
+[25-Sep-2025 07:39:42 +0000]: <uiquo47m> Connecting to tls://sucralose.o2switch.net:587...
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 25 Sep 2025 09:39:43 +0200 
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 220 and/or bulk e-mail.
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: EHLO 192.168.91.230
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-8BITMIME
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-PIPELINING
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-STARTTLS
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250 HELP
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: STARTTLS
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 220 TLS go ahead
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: EHLO 192.168.91.230
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-8BITMIME
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-PIPELINING
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250 HELP
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: AUTH PLAIN
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 334 
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: ****** [52]
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 235 Authentication succeeded
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250 OK
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: RCPT TO:<guydany8@gmail.com>
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 250 Accepted
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: DATA
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Recv: 354 Enter message, ending with "." on a line by itself
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: MIME-Version: 1.0
+Date: Thu, 25 Sep 2025 07:39:42 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: testt
+Message-ID: <8a5a8baa879c0f04bfe641fa4fbd6f60@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_b7215d257578e3a6f492dd417c4daf15"
+
+--=_b7215d257578e3a6f492dd417c4daf15
+Content-Type: multipart/alternative;
+ boundary="=_043b506037a59f3eec67d6c28f923237"
+
+--=_043b506037a59f3eec67d6c28f923237
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+zadzazfze
+
+--
+--=_043b506037a59f3eec67d6c28f923237
+Content-Type: multipart/related;
+ boundary="=_de83fda31bfbe7bd4b80619ddd6cec0d"
+
+--=_de83fda31bfbe7bd4b80619ddd6cec0d
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>zadzazfze</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_de83fda31bfbe7bd4b80619ddd6cec0d
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 138766 bytes]
+[25-Sep-2025 07:39:43 +0000]: <uiquo47m> Send: .
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Recv: 250 OK id=1v1gZs-00000007c2g-3Qj4
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Send: QUIT
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Recv: 221 sucralose.o2switch.net closing connection
+[25-Sep-2025 07:41:10 +0000]: <cliti9k3> Connecting to tls://sucralose.o2switch.net:587...
+[25-Sep-2025 07:41:11 +0000]: <cliti9k3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 25 Sep 2025 09:41:11 +0200 
+[25-Sep-2025 07:41:11 +0000]: <cliti9k3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[25-Sep-2025 07:41:11 +0000]: <cliti9k3> Recv: 220 and/or bulk e-mail.
+[25-Sep-2025 07:41:11 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-STARTTLS
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Send: STARTTLS
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 220 TLS go ahead
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Send: AUTH PLAIN
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 334 
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Send: ****** [52]
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 235 Authentication succeeded
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250 OK
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Send: RCPT TO:<guydany8@gmail.com>
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250 Accepted
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Send: DATA
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 354 Enter message, ending with "." on a line by itself
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Send: MIME-Version: 1.0
+Date: Thu, 25 Sep 2025 07:41:10 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: f,g,gj,
+Message-ID: <18213ad39119d8034d22a11c45bc7c3b@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_02fe609deaac90967210accf3b6bc3da"
+
+--=_02fe609deaac90967210accf3b6bc3da
+Content-Type: multipart/alternative;
+ boundary="=_642baafbb50f208fd07e20c0ec31e508"
+
+--=_642baafbb50f208fd07e20c0ec31e508
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+dehhrthjty
+
+--
+--=_642baafbb50f208fd07e20c0ec31e508
+Content-Type: multipart/related;
+ boundary="=_3544d8d77444b8f4e2e6470f45767025"
+
+--=_3544d8d77444b8f4e2e6470f45767025
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>dehhrthjty</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_3544d8d77444b8f4e2e6470f45767025
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 209219 bytes]
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Send: .
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Recv: 250 OK id=1v1gbJ-00000007duT-0bQy
+[25-Sep-2025 07:41:15 +0000]: <cliti9k3> Send: QUIT
+[25-Sep-2025 07:41:15 +0000]: <cliti9k3> Recv: 221 sucralose.o2switch.net closing connection
+[25-Sep-2025 07:46:12 +0000]: <n54g2s62> Connecting to tls://sucralose.o2switch.net:587...
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 25 Sep 2025 09:46:13 +0200 
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 220 and/or bulk e-mail.
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Send: EHLO 192.168.91.230
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-8BITMIME
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-PIPELINING
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-STARTTLS
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250 HELP
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Send: STARTTLS
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 220 TLS go ahead
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Send: EHLO 192.168.91.230
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-8BITMIME
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-PIPELINING
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 250 HELP
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Send: AUTH PLAIN
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Recv: 334 
+[25-Sep-2025 07:46:13 +0000]: <n54g2s62> Send: ****** [52]
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Recv: 235 Authentication succeeded
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Recv: 250 OK
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Send: RCPT TO:<guydany8@gmail.com>
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Recv: 250 Accepted
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Send: DATA
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Recv: 354 Enter message, ending with "." on a line by itself
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Send: MIME-Version: 1.0
+Date: Thu, 25 Sep 2025 07:46:12 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: guy
+Message-ID: <3dc9ca8172d40ebfbc177204c9d4bef9@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_c5baeca039cbf8e172ec52b34eace967"
+
+--=_c5baeca039cbf8e172ec52b34eace967
+Content-Type: multipart/alternative;
+ boundary="=_8259f7f5db22c3d6effb85a943e61198"
+
+--=_8259f7f5db22c3d6effb85a943e61198
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+un test
+
+--
+--=_8259f7f5db22c3d6effb85a943e61198
+Content-Type: multipart/related;
+ boundary="=_1bcaff84362e51c1212652ba19d95a0c"
+
+--=_1bcaff84362e51c1212652ba19d95a0c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>un test</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_1bcaff84362e51c1212652ba19d95a0c
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 209209 bytes]
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Send: .
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Recv: 250 OK id=1v1ggA-00000007ik8-3tpE
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Send: QUIT
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Recv: 221 sucralose.o2switch.net closing connection
+[25-Sep-2025 07:48:30 +0000]: <cliti9k3> Connecting to tls://sucralose.o2switch.net:587...
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 25 Sep 2025 09:48:31 +0200 
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 220 and/or bulk e-mail.
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-STARTTLS
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: STARTTLS
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 220 TLS go ahead
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: AUTH PLAIN
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 334 
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: ****** [52]
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 235 Authentication succeeded
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250 OK
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: RCPT TO:<guydany8@gmail.com>
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250 Accepted
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: DATA
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 354 Enter message, ending with "." on a line by itself
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: MIME-Version: 1.0
+Date: Thu, 25 Sep 2025 07:48:30 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: un test
+Message-ID: <d2d9171f5499df1d16307524946edb1c@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_764247a2d23c29912881b460b2888795"
+
+--=_764247a2d23c29912881b460b2888795
+Content-Type: multipart/alternative;
+ boundary="=_d21a4bc3d1e192782eaf345ddfd46d9a"
+
+--=_d21a4bc3d1e192782eaf345ddfd46d9a
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+test dolibarr
+
+--
+--=_d21a4bc3d1e192782eaf345ddfd46d9a
+Content-Type: multipart/related;
+ boundary="=_99ce479acc4ea26223db475e6cc1c3da"
+
+--=_99ce479acc4ea26223db475e6cc1c3da
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>test dolibarr</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_99ce479acc4ea26223db475e6cc1c3da
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 209225 bytes]
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Send: .
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Recv: 250 OK id=1v1giO-00000007kmj-1mT0
+[25-Sep-2025 07:48:34 +0000]: <cliti9k3> Send: QUIT
+[25-Sep-2025 07:48:34 +0000]: <cliti9k3> Recv: 221 sucralose.o2switch.net closing connection
+[25-Sep-2025 07:52:08 +0000]: <cliti9k3> Connecting to tls://sucralose.o2switch.net:587...
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 25 Sep 2025 09:52:09 +0200 
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 220 and/or bulk e-mail.
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-STARTTLS
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: STARTTLS
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 220 TLS go ahead
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: AUTH PLAIN
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 334 
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: ****** [52]
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 235 Authentication succeeded
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250 OK
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: RCPT TO:<guydany8@gmail.com>
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 250 Accepted
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: DATA
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Recv: 354 Enter message, ending with "." on a line by itself
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: MIME-Version: 1.0
+Date: Thu, 25 Sep 2025 07:52:08 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: guyk
+Message-ID: <a2f3b893ccfdb1da039495ebe14eee9c@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_7eedb20a80a29acca64ed8ac93731953"
+
+--=_7eedb20a80a29acca64ed8ac93731953
+Content-Type: multipart/alternative;
+ boundary="=_27bf2f760257c32cd99ebde39922934c"
+
+--=_27bf2f760257c32cd99ebde39922934c
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+ergerg
+
+--
+--=_27bf2f760257c32cd99ebde39922934c
+Content-Type: multipart/related;
+ boundary="=_e94f0399090258f6b27b89af8da0051f"
+
+--=_e94f0399090258f6b27b89af8da0051f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>ergerg</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_e94f0399090258f6b27b89af8da0051f
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 209208 bytes]
+[25-Sep-2025 07:52:09 +0000]: <cliti9k3> Send: .
+[25-Sep-2025 07:52:10 +0000]: <cliti9k3> Recv: 250 OK id=1v1glu-00000007p6S-2npM
+[25-Sep-2025 07:52:12 +0000]: <cliti9k3> Send: QUIT
+[25-Sep-2025 07:52:12 +0000]: <cliti9k3> Recv: 221 sucralose.o2switch.net closing connection
+[25-Sep-2025 08:11:36 +0000]: <cliti9k3> Connecting to tls://sucralose.o2switch.net:587...
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 220-sucralose.o2switch.net ESMTP Exim 4.98.2 #2 Thu, 25 Sep 2025 10:11:37 +0200 
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 220-We do not authorize the use of this system to transport unsolicited, 
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 220 and/or bulk e-mail.
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-STARTTLS
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: STARTTLS
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 220 TLS go ahead
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: EHLO accens
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-sucralose.o2switch.net Hello rtr.23.90.216.125.unyc.it [23.90.216.125]
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-SIZE 262144000
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-LIMITS MAILMAX=1000 RCPTMAX=50000
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-8BITMIME
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-PIPELINING
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-PIPECONNECT
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250-AUTH PLAIN LOGIN
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250 HELP
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: AUTH PLAIN
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 334 
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: ****** [52]
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 235 Authentication succeeded
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: MAIL FROM:<rgpd@accens-avocats.com>
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250 OK
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: RCPT TO:<guydany8@gmail.com>
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250 Accepted
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: DATA
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 354 Enter message, ending with "." on a line by itself
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: MIME-Version: 1.0
+Date: Thu, 25 Sep 2025 08:11:36 +0000
+From: rgpd@accens-avocats.com
+To: guydany8@gmail.com
+Subject: guy
+Message-ID: <418669f73294a6691920bcc81657416e@accens-avocats.com>
+X-Sender: rgpd@accens-avocats.com
+Content-Type: multipart/mixed;
+ boundary="=_e8efd06e288f244a053c78f3c2e3cda1"
+
+--=_e8efd06e288f244a053c78f3c2e3cda1
+Content-Type: multipart/alternative;
+ boundary="=_59a74bf9a048e022ff104a201f1a27dd"
+
+--=_59a74bf9a048e022ff104a201f1a27dd
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+test
+
+--
+--=_59a74bf9a048e022ff104a201f1a27dd
+Content-Type: multipart/related;
+ boundary="=_bac00d5130213bcca53bd6cf5c544565"
+
+--=_bac00d5130213bcca53bd6cf5c544565
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: "Times New =
+Roman",Times,serif'>
+<p>test</p>
+<div id=3D"signature">-- <br />
+<p><img src=3D"cid:ed459fab45bc806e24a89033b89612e1@accens-avocats.com" wid=
+th=3D"648" height=3D"304" /></p>
+</div>
+</body></html>
+
+--=_bac00d5130213bcca53bd6cf5c544565
+Content-Transfer-Encoding: base64
+Content-ID: <ed459fab45bc806e24a89033b89612e1@accens-avocats.com>
+Content-Type: image/png;
+ name=ed459fab.png
+Content-Disposition: inline;
+ filename=ed459fab.png;
+ size=95239
+
+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... [truncated 209203 bytes]
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: .
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 250 OK id=1v1h4k-0000000895H-1Qqi
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Send: QUIT
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Recv: 221 sucralose.o2switch.net closing connection

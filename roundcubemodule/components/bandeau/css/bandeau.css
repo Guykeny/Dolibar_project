@@ -1,0 +1,444 @@
+/* ========================================
+   BANDEAU DE CLASSEMENT ROUNDCUBE
+   Styles extraits de roundcube.php
+   VERSION THÈME SOMBRE ROUNDCUBE
+======================================== */
+
+/* Masquer le plugin save2dolibarr existant */
+.toolbar a.button.save2dolibarr,
+.toolbar .button.save2dolibarr,
+a.button.save2dolibarr,
+.save2dolibarr,
+[class*="save2dolibarr"] {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+#save2dolibarr_modal,
+#save2dolibarr_overlay {
+    display: none !important;
+}
+
+/* Container principal */
+#roundcube-container {
+    display: flex;
+    height: calc(100vh - 60px);
+    position: relative;
+}
+
+/* Iframe Roundcube */
+#roundcube-iframe {
+    flex: 1;
+    border: none;
+    background: #2c3e50;
+}
+
+/* Bandeau principal */
+#bandeau {
+    width: 350px; /* Légèrement plus large pour le classement */
+    background: #2f3a3f;
+    color: #ecf0f1;
+    padding: 20px;
+    overflow-y: auto;
+    box-shadow: -2px 0 10px rgba(0,0,0,0.3);
+}
+
+/* Sections du bandeau */
+#bandeau .section {
+    background: #2f3a3f;
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    display: block !important; /* S'assurer que les éléments sont visibles */
+    border: 1px solid rgba(69, 85, 107, 0.3);
+}
+
+/* Titres des sections */
+#bandeau h3 {
+    margin: 0 0 15px 0;
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #bdc3c7;
+    border-bottom: 1px solid rgba(236, 240, 241, 0.2);
+    padding-bottom: 5px;
+}
+
+#bandeau h4 {
+    color: #ecf0f1;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+#bandeau h5 {
+    color: #bdc3c7;
+    margin-bottom: 15px;
+    font-size: 13px;
+}
+
+/* Lignes d'information */
+.info-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    font-size: 13px;
+    color: #ecf0f1;
+}
+.user-info {
+    display: none;
+}
+.ged-info {
+    display: none;
+}
+.config-section {
+    display: none;
+}
+.info-label {
+    font-weight: 500;
+    opacity: 0.9;
+    color: #95a5a6;
+}
+
+/* Boutons */
+.btn,
+a.btn {
+    background: #2f3a3f;
+    border: 1px solid #bdc3c7;
+    color: #ecf0f1;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.btn:hover,
+a.btn:hover {
+    background: #3a454a;
+    color: #ecf0f1;
+    text-decoration: none;
+    border-color: #95a5a6;
+}
+
+.btn-primary {
+    background: rgba(39, 174, 96, 0.6);
+    border-color: rgba(46, 204, 113, 0.7);
+}
+
+.btn-primary:hover {
+    background: rgba(46, 204, 113, 0.8);
+}
+
+.btn-danger {
+    background: rgba(231, 76, 60, 0.6);
+    border-color: rgba(242, 99, 89, 0.7);
+}
+
+.btn-danger:hover {
+    background: rgba(242, 99, 89, 0.8);
+}
+
+/* État "aucun mail sélectionné" */
+.no-mail-selected {
+    text-align: center;
+    padding: 30px;
+    opacity: 0.7;
+    color: #95a5a6;
+}
+
+.no-mail-selected div:first-child {
+    font-size: 32px;
+    margin-bottom: 10px;
+    opacity: 0.5;
+}
+.info{
+    display: none;
+}
+/* Indicateur de droits */
+.rights-indicator {
+    font-size: 11px;
+    opacity: 0.8;
+    margin-top: 10px;
+    padding: 5px;
+    background: rgba(44, 62, 80, 0.4);
+    border-radius: 4px;
+    color: #95a5a6;
+    border: 1px solid rgba(69, 85, 107, 0.3);
+}
+
+/* Notifications */
+#notification {
+    position: fixed;
+    top: 70px;
+    right: 20px;
+    padding: 12px 20px;
+    border-radius: 4px;
+    background: rgba(44, 62, 80, 0.95);
+    color: #ecf0f1;
+    font-size: 14px;
+    z-index: 10000;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: all 0.3s ease;
+    border: 1px solid rgba(69, 85, 107, 0.5);
+}
+
+#notification.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#notification.success {
+    background: rgba(39, 174, 96, 0.95);
+    border-color: rgba(46, 204, 113, 0.7);
+}
+
+#notification.error {
+    background: rgba(231, 76, 60, 0.95);
+    border-color: rgba(242, 99, 89, 0.7);
+}
+
+#notification.info {
+    background: rgba(52, 152, 219, 0.95);
+    border-color: rgba(93, 173, 226, 0.7);
+}
+
+#notification.warning {
+    background: rgba(241, 196, 15, 0.95);
+    color: #2c3e50;
+    border-color: rgba(249, 212, 55, 0.7);
+}
+
+/* Formulaire de classement */
+#classification-container {
+    display: block !important;
+}
+
+#classification-form {
+    min-height: 100px;
+}
+
+#classification-form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #bdc3c7;
+    font-weight: bold;
+}
+
+#classification-form input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #45556b;
+    border-radius: 4px;
+    background: #2c3e50;
+    color: #ecf0f1;
+    box-sizing: border-box;
+}
+
+#classification-form input[type="text"]:focus {
+    outline: none;
+    border-color: #3498db;
+    box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.25);
+}
+
+/* Suggestions de recherche */
+.suggestions-container {
+    display: none;
+    background: #2c3e50;
+    border: 1px solid #45556b;
+    border-radius: 4px;
+    margin-top: 2px;
+    max-height: 150px;
+    overflow-y: auto;
+    position: relative;
+    z-index: 1000;
+}
+
+.suggestion-item {
+    padding: 8px;
+    cursor: pointer;
+    border-bottom: 1px solid #45556b;
+    color: #ecf0f1;
+}
+
+.suggestion-item:hover {
+    background: #34495e;
+}
+
+.suggestion-item:last-child {
+    border-bottom: none;
+}
+
+.suggestion-item strong {
+    display: block;
+}
+
+.suggestion-item small {
+    color: #95a5a6;
+    font-size: 11px;
+}
+
+/* Conteneur de mail data */
+.mail-data-container {
+    background: rgba(44, 62, 80, 0.4);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    border: 1px solid rgba(69, 85, 107, 0.5);
+}
+
+.mail-data-container p {
+    margin: 5px 0;
+    font-size: 13px;
+    color: #ecf0f1;
+}
+
+.mail-data-container strong {
+    color: #bdc3c7;
+}
+
+/* Animation de chargement */
+.loading-spinner {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border: 2px solid rgba(236, 240, 241, 0.3);
+    border-top: 2px solid #ecf0f1;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Message d'erreur Roundcube */
+#roundcube-error {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #34495e;
+    color: #ecf0f1;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+    z-index: 1000;
+    text-align: center;
+    border: 1px solid #45556b;
+}
+
+#roundcube-error h3 {
+    color: #e74c3c;
+    margin-bottom: 15px;
+}
+
+#roundcube-error code {
+    background: #2c3e50;
+    color: #ecf0f1;
+    padding: 5px;
+    border-radius: 3px;
+    font-family: monospace;
+    border: 1px solid #45556b;
+}
+
+/* Formulaires de classement spécifiques */
+.classification-form-container {
+    position: relative;
+    padding: 15px; 
+    background: rgba(44, 62, 80, 0.3);
+    border-radius: 4px;
+    border: 1px solid rgba(69, 85, 107, 0.3);
+}
+
+.classification-field {
+    margin: 10px 0;
+}
+.existing-link-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 2px 5px rgba(40, 167, 69, 0.3);
+}
+
+.existing-link-item a {
+    position: relative;
+}
+
+.existing-link-item a::after {
+    content: "↗";
+    position: absolute;
+    right: -20px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.existing-link-item:hover a::after {
+    opacity: 1;
+}
+
+.classification-actions {
+    position: sticky;
+    top: 0;
+    background: #2f3a3f;
+    padding: 15px;
+    border: 1px solid rgba(69, 85, 107, 0.3);
+    border-radius: 8px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    z-index: 100;
+    margin-bottom: 20px;
+    margin-top: 0;
+    width: 100%; 
+    box-sizing: border-box;
+}
+
+/* States pour les champs sélectionnés */
+.field-selected {
+    border-color: #27ae60 !important;
+    background: rgba(39, 174, 96, 0.2) !important;
+}
+
+/* Entité sélectionnée */
+.selected-entity {
+    margin-top: 5px;
+    padding: 5px;
+    background: rgba(39, 174, 96, 0.2);
+    border: 1px solid #27ae60;
+    border-radius: 4px;
+    font-size: 12px;
+    color: #ecf0f1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Responsive pour petits écrans */
+@media (max-width: 1200px) {
+    #bandeau {
+        width: 300px;
+    }
+}
+
+@media (max-width: 900px) {
+    #roundcube-container {
+        flex-direction: column;
+    }
+    
+    #bandeau {
+        width: 100%;
+        height: 250px;
+        order: 2;
+    }
+    
+    #roundcube-iframe {
+        order: 1;
+        height: calc(100vh - 310px);
+    }
+}

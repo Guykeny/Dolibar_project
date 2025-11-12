@@ -1,0 +1,154 @@
+[23-Sep-2025 07:33:06 +0000]: <ca66a2ok> PJ trackée: SKM_C450i25080416070.pdf
+[23-Sep-2025 07:33:22 +0000]: <ca66a2ok> PJ trackée: 1752239895__cv_final.pdf
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> === ENVOI PJ SEULEMENT ===
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Extraction PJ pour compose_id: 176885384368d24d15010c3
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> PJ extraite (fallback): 1752239895__cv_final.pdf
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Envoi de 1 pièces jointes
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> PJ stockées en session pour JavaScript
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Envoi PJ vers: http://localhost/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Nombre de PJ: 1
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Taille données: 80414 bytes
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> cURL info: {"url":"http:\/\/localhost\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":200,"total_time":0.008151,"size_download":50}
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Réponse reçue: {"status":"OK","message":"POST réussi","count":1}
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> Succès envoi PJ: POST réussi
+[23-Sep-2025 07:33:36 +0000]: <ca66a2ok> ✅ PJ envoyées avec succès
+[23-Sep-2025 07:38:48 +0000]: <ca66a2ok> PJ trackée: 1752239895__cv_final.pdf
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> === ENVOI PJ SEULEMENT ===
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Extraction PJ pour compose_id: 195070956068d24e62de173
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> PJ extraite (fallback): 1752239895__cv_final.pdf
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Envoi de 1 pièces jointes
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> PJ stockées en session pour JavaScript
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Envoi PJ vers: http://localhost/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Nombre de PJ: 1
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Taille données: 80414 bytes
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> cURL info: {"url":"http:\/\/localhost\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":200,"total_time":0.004744,"size_download":50}
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Réponse reçue: {"status":"OK","message":"POST réussi","count":1}
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> Succès envoi PJ: POST réussi
+[23-Sep-2025 07:39:28 +0000]: <ca66a2ok> ✅ PJ envoyées avec succès
+[23-Sep-2025 08:58:50 +0000]: <ca66a2ok> PJ trackée: PJ2312-0001.pdf
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> === ENVOI PJ SEULEMENT ===
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Extraction PJ pour compose_id: 113491533568d2612166dc6
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> PJ extraite (fallback): PJ2312-0001.pdf
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Envoi de 1 pièces jointes
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> PJ stockées en session pour JavaScript
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Envoi PJ vers: http://localhost/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Nombre de PJ: 1
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Taille données: 10710 bytes
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> cURL info: {"url":"http:\/\/localhost\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":200,"total_time":0.002469,"size_download":50}
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Réponse reçue: {"status":"OK","message":"POST réussi","count":1}
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> Succès envoi PJ: POST réussi
+[23-Sep-2025 08:58:58 +0000]: <ca66a2ok> ✅ PJ envoyées avec succès
+[23-Sep-2025 09:00:44 +0000]: <ca66a2ok> PJ trackée: thirdparty.odt
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> === ENVOI PJ SEULEMENT ===
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Extraction PJ pour compose_id: 69669037468d261a809366
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> PJ extraite (fallback): thirdparty.odt
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Envoi de 1 pièces jointes
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> PJ stockées en session pour JavaScript
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Envoi PJ vers: http://localhost/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Nombre de PJ: 1
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Taille données: 32225 bytes
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> cURL info: {"url":"http:\/\/localhost\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":200,"total_time":0.004162,"size_download":50}
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Réponse reçue: {"status":"OK","message":"POST réussi","count":1}
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> Succès envoi PJ: POST réussi
+[23-Sep-2025 09:00:48 +0000]: <ca66a2ok> ✅ PJ envoyées avec succès
+[25-Sep-2025 07:33:33 +0000]: <cliti9k3> PJ trackée: 1752239895__cv_final.pdf
+[25-Sep-2025 07:33:40 +0000]: <cliti9k3> === ENVOI PJ SEULEMENT ===
+[25-Sep-2025 07:33:40 +0000]: <cliti9k3> Extraction PJ pour compose_id: 23283575568d4efbf125c2
+[25-Sep-2025 07:33:40 +0000]: <cliti9k3> PJ extraite (fallback): 1752239895__cv_final.pdf
+[25-Sep-2025 07:33:40 +0000]: <cliti9k3> Envoi de 1 pièces jointes
+[25-Sep-2025 07:33:40 +0000]: <cliti9k3> PJ stockées en session pour JavaScript
+[25-Sep-2025 07:33:40 +0000]: <cliti9k3> Envoi PJ vers: http://accens/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[25-Sep-2025 07:33:40 +0000]: <cliti9k3> Nombre de PJ: 1
+[25-Sep-2025 07:33:40 +0000]: <cliti9k3> Taille données: 80414 bytes
+[25-Sep-2025 07:33:42 +0000]: <cliti9k3> cURL info: {"url":"http:\/\/accens\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":0,"total_time":2.613848,"size_download":0}
+[25-Sep-2025 07:33:42 +0000]: <cliti9k3> ERREUR cURL: Could not resolve host: accens
+[25-Sep-2025 07:33:42 +0000]: <cliti9k3> ❌ Erreur envoi PJ
+[25-Sep-2025 07:36:33 +0000]: <6t86jl91> PJ trackée: PJ2312-0001.pdf
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> === ENVOI PJ SEULEMENT ===
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Extraction PJ pour compose_id: 21650871768d4f0ed4c8a3
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> PJ extraite (fallback): PJ2312-0001.pdf
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Envoi de 1 pièces jointes
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> PJ stockées en session pour JavaScript
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Envoi PJ vers: http://localhost/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Nombre de PJ: 1
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Taille données: 10710 bytes
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> cURL info: {"url":"http:\/\/localhost\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":200,"total_time":0.003319,"size_download":50}
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Réponse reçue: {"status":"OK","message":"POST réussi","count":1}
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> Succès envoi PJ: POST réussi
+[25-Sep-2025 07:36:39 +0000]: <6t86jl91> ✅ PJ envoyées avec succès
+[25-Sep-2025 07:39:37 +0000]: <uiquo47m> PJ trackée: PJ2312-0001.pdf
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> === ENVOI PJ SEULEMENT ===
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Extraction PJ pour compose_id: 182093598668d4f1a1ee300
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> PJ extraite (fallback): PJ2312-0001.pdf
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Envoi de 1 pièces jointes
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> PJ stockées en session pour JavaScript
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Envoi PJ vers: http://192.168.91.230/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Nombre de PJ: 1
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Taille données: 10710 bytes
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> cURL info: {"url":"http:\/\/192.168.91.230\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":200,"total_time":0.002194,"size_download":50}
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Réponse reçue: {"status":"OK","message":"POST réussi","count":1}
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> Succès envoi PJ: POST réussi
+[25-Sep-2025 07:39:44 +0000]: <uiquo47m> ✅ PJ envoyées avec succès
+[25-Sep-2025 07:41:04 +0000]: <cliti9k3> PJ trackée: 1752239895__cv_final.pdf
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> === ENVOI PJ SEULEMENT ===
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Extraction PJ pour compose_id: 26972161368d4f1ff7e26a
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> PJ extraite (fallback): 1752239895__cv_final.pdf
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Envoi de 1 pièces jointes
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> PJ stockées en session pour JavaScript
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Envoi PJ vers: http://accens/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Nombre de PJ: 1
+[25-Sep-2025 07:41:12 +0000]: <cliti9k3> Taille données: 80414 bytes
+[25-Sep-2025 07:41:15 +0000]: <cliti9k3> cURL info: {"url":"http:\/\/accens\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":0,"total_time":2.659511,"size_download":0}
+[25-Sep-2025 07:41:15 +0000]: <cliti9k3> ERREUR cURL: Could not resolve host: accens
+[25-Sep-2025 07:41:15 +0000]: <cliti9k3> ❌ Erreur envoi PJ
+[25-Sep-2025 07:45:57 +0000]: <n54g2s62> PJ trackée: 1752239895__cv_final.pdf
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> === ENVOI PJ SEULEMENT ===
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Extraction PJ pour compose_id: 140078575468d4f3221ad61
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> PJ extraite (fallback): 1752239895__cv_final.pdf
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Envoi de 1 pièces jointes
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> PJ stockées en session pour JavaScript
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Envoi PJ vers: http://192.168.91.230/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Nombre de PJ: 1
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Taille données: 80414 bytes
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> cURL info: {"url":"http:\/\/192.168.91.230\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":200,"total_time":0.024575,"size_download":50}
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Réponse reçue: {"status":"OK","message":"POST réussi","count":1}
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> Succès envoi PJ: POST réussi
+[25-Sep-2025 07:46:14 +0000]: <n54g2s62> ✅ PJ envoyées avec succès
+[25-Sep-2025 07:47:34 +0000]: <cliti9k3> PJ trackée: 1752239895__cv_final.pdf
+[25-Sep-2025 07:48:25 +0000]: <cliti9k3> PJ trackée: 1752239895__cv_final.pdf
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> === ENVOI PJ SEULEMENT ===
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Extraction PJ pour compose_id: 144291001668d4f3b271e2d
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> PJ extraite (fallback): 1752239895__cv_final.pdf
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Envoi de 1 pièces jointes
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> PJ stockées en session pour JavaScript
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Envoi PJ vers: http://accens/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Nombre de PJ: 1
+[25-Sep-2025 07:48:31 +0000]: <cliti9k3> Taille données: 80414 bytes
+[25-Sep-2025 07:48:34 +0000]: <cliti9k3> cURL info: {"url":"http:\/\/accens\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":0,"total_time":2.610629,"size_download":0}
+[25-Sep-2025 07:48:34 +0000]: <cliti9k3> ERREUR cURL: Could not resolve host: accens
+[25-Sep-2025 07:48:34 +0000]: <cliti9k3> ❌ Erreur envoi PJ
+[25-Sep-2025 07:51:56 +0000]: <cliti9k3> PJ trackée: 1752239895__cv_final.pdf
+[25-Sep-2025 07:52:10 +0000]: <cliti9k3> === ENVOI PJ SEULEMENT ===
+[25-Sep-2025 07:52:10 +0000]: <cliti9k3> Extraction PJ pour compose_id: 205204500868d4f47cc70c9
+[25-Sep-2025 07:52:10 +0000]: <cliti9k3> PJ extraite (fallback): 1752239895__cv_final.pdf
+[25-Sep-2025 07:52:10 +0000]: <cliti9k3> Envoi de 1 pièces jointes
+[25-Sep-2025 07:52:10 +0000]: <cliti9k3> PJ stockées en session pour JavaScript
+[25-Sep-2025 07:52:10 +0000]: <cliti9k3> Envoi PJ vers: http://accens/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[25-Sep-2025 07:52:10 +0000]: <cliti9k3> Nombre de PJ: 1
+[25-Sep-2025 07:52:10 +0000]: <cliti9k3> Taille données: 80414 bytes
+[25-Sep-2025 07:52:12 +0000]: <cliti9k3> cURL info: {"url":"http:\/\/accens\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":0,"total_time":2.648229,"size_download":0}
+[25-Sep-2025 07:52:12 +0000]: <cliti9k3> ERREUR cURL: Could not resolve host: accens
+[25-Sep-2025 07:52:12 +0000]: <cliti9k3> ❌ Erreur envoi PJ
+[25-Sep-2025 08:11:33 +0000]: <cliti9k3> PJ trackée: 1752239895__cv_final.pdf
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> === ENVOI PJ SEULEMENT ===
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Extraction PJ pour compose_id: 38114454868d4f92363d53
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> PJ extraite (fallback): 1752239895__cv_final.pdf
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Envoi de 1 pièces jointes
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> PJ stockées en session pour JavaScript
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Envoi PJ vers: http://accens/testdoli/htdocs/custom/roundcubemodule/scripts/save_attachments_only.php
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Nombre de PJ: 1
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Taille données: 80414 bytes
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> cURL info: {"url":"http:\/\/accens\/testdoli\/htdocs\/custom\/roundcubemodule\/scripts\/save_attachments_only.php","http_code":200,"total_time":0.004968,"size_download":50}
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Réponse reçue: {"status":"OK","message":"POST réussi","count":1}
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> Succès envoi PJ: POST réussi
+[25-Sep-2025 08:11:37 +0000]: <cliti9k3> ✅ PJ envoyées avec succès
