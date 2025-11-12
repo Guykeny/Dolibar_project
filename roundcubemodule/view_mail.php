@@ -5,7 +5,7 @@ require 'vendor/autoload.php';
 
 use ZBateson\MailMimeParser\MailMimeParser;
 
-
+//recuperer l'id
 $id = GETPOST('id', 'int');
 $id = (int) $id;
 
