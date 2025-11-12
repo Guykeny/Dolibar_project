@@ -5,7 +5,7 @@ require 'vendor/autoload.php';
 
 use ZBateson\MailMimeParser\MailMimeParser;
 
-// Affichage normal du mail (code existant)
+
 $id = GETPOST('id', 'int');
 $id = (int) $id;
 
